@@ -4,4 +4,6 @@ public interface EspacioCultural {
     String obtenerRequisitoEntrada();
     void realizarActividadPrincipal();
 
+    
+
 }
